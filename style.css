@@ -18,4 +18,5 @@ body {
 
 .wide-font{
   font-family: 'Passion One', sans-serif;
+  letter-spacing: .05em;
 }
