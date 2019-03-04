@@ -4,9 +4,17 @@ body {
 }
 
 .box {
-    height:100vh;
-    width:100vw;
-    border:2px solid black;
+  height:100vh;
+  width:100vw;
+  border:2px solid black;
+}
+
+.box-title {
+  width:10vw;
+  margin-top:-20px;
+  margin-left:15px;
+  padding-left: .5vw;
+  background-color: azure;
 }
 
 .change-font {
