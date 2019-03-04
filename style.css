@@ -3,6 +3,11 @@ body {
   font-family: Oswald;
 }
 
+.box {
+    height:100vh;
+    width:100vw;
+    border:2px solid black;
+}
 
 .change-font {
   font-family: 'Roboto', sans-serif;
