@@ -21,6 +21,11 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
+.spacing {
+  padding-left: 5vw;
+  padding-right: 5vw;
+}
+
 .signature {
   font-family: 'Pinyon Script', cursive;
 }
