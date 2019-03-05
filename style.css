@@ -30,7 +30,17 @@ body {
   font-family: 'Pinyon Script', cursive;
 }
 
-.underline {
+.single-service h5::before {
+    background-color: black;
+    bottom: 0;
+    content: "";
+    height: 2px;
+    left: 0;
+    position: absolute;
+    width: 46px;
+}
+
+.vspacing {
   font-size: 18px;
   font-weight: 300;
   margin-bottom: 16px;
@@ -38,6 +48,8 @@ body {
   padding-bottom: 14px;
   position: relative;
 }
+
+
 
 .vtop {
   margin-top: 7vh;
