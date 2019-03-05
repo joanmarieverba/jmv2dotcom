@@ -30,6 +30,15 @@ body {
   font-family: 'Pinyon Script', cursive;
 }
 
+.underline {
+  font-size: 18px;
+  font-weight: 300;
+  margin-bottom: 16px;
+  margin-top: 21px;
+  padding-bottom: 14px;
+  position: relative;
+}
+
 .vtop {
   margin-top: 7vh;
 }
