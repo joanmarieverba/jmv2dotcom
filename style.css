@@ -18,6 +18,9 @@ body {
       margin-right: 5vw;
       padding-top: 8vw;
     }
+    .nav-title {
+      font-size: 14px;
+    }
   }
 
 .box-title {
