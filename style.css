@@ -13,6 +13,11 @@ body {
     .box {
         border:2px solid azure;
     }
+    .lspace {
+      margin-left: 8vw;
+      margin-right: 5vw;
+      padding-top: 8vw;
+    }
   }
 
 .box-title {
