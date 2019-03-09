@@ -9,6 +9,12 @@ body {
   border:2px solid black;
 }
 
+  @media screen and (max-width: 640px) {
+    .box {
+        border:2px solid azure;
+    }
+  }
+
 .box-title {
   width:10vw;
   margin-top:-19px;
@@ -19,6 +25,10 @@ body {
 
 .change-font {
   font-family: 'Roboto', sans-serif;
+}
+
+.lspace {
+  padding-left: 1vw;
 }
 
 .spacing {
