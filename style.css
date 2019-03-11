@@ -9,8 +9,14 @@ body {
   border:2px solid black;
 }
 
+.box2 {
+  height: 50vh;
+  width:100vw;
+  border:2px solid black;
+}
+
   @media screen and (max-width: 640px) {
-    .box {
+    .box box2 {
         border:2px solid azure;
     }
     footer {
@@ -34,12 +40,21 @@ body {
   background-color: azure;
 }
 
+.box-title2 {
+  width: 7vw;
+  margin-top:-19px;
+  margin-left:15px;
+  padding-left: .5vw;
+  background-color: azure;
+}
+
 .change-font {
   font-family: 'Roboto', sans-serif;
 }
 
 footer {
-  position: fixed;
+  /* position: fixed; */
+  margin-top: 5vh;
   bottom: 0;
   width: 100%;
   height: 6vh;
