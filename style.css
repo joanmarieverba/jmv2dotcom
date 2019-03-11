@@ -16,8 +16,12 @@ body {
 }
 
   @media screen and (max-width: 640px) {
-    .box box2 {
+    .box {
         border:2px solid azure;
+    }
+    .box2 {
+        border:2px solid azure;
+        margin-top: 290vh;
     }
     footer {
       padding-top: 20vh;
