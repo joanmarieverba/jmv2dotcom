@@ -96,10 +96,12 @@ footer {
   position: relative;
 }
 
-
-
 .vtop {
   margin-top: 7vh;
+}
+
+.vtop2 {
+  margin-top: 3vh;
 }
 
 .wide-font{
