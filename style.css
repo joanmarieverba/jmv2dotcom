@@ -52,6 +52,14 @@ body {
   background-color: azure;
 }
 
+.box-title3 {
+  width: 12vw;
+  margin-top:-19px;
+  margin-left:15px;
+  padding-left: .5vw;
+  background-color: azure;
+}
+
 .change-font {
   font-family: 'Roboto', sans-serif;
 }
