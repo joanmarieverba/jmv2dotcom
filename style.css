@@ -106,6 +106,10 @@ footer {
     width: 46px;
 }
 
+ul {
+  list-style-type: none;
+}
+
 .vspacing {
   font-size: 18px;
   font-weight: 300;
