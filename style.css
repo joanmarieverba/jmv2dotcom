@@ -71,6 +71,10 @@ body {
   background-color: azure;
 }
 
+.center-text {
+  text-align: center;
+}
+
 .change-font {
   font-family: 'Roboto', sans-serif;
 }
