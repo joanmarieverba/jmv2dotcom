@@ -73,6 +73,11 @@ body {
   background-color: azure;
 }
 
+  .btn {
+    width: 85px;
+    height: 40px;
+  }
+
 .center-text {
   text-align: center;
 }
