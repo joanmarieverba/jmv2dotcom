@@ -81,6 +81,12 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
+.change-font2 {
+  font-family: 'Merriweather', serif;
+  font-size: 20px;
+  color:midnightblue;
+}
+
 footer {
   margin-top: 5vh;
   bottom: 0;
