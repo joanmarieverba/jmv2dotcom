@@ -73,10 +73,10 @@ body {
   background-color: azure;
 }
 
-  .btn {
-    width: 85px;
-    height: 40px;
-  }
+.btn {
+  width: 100px;
+  height: 40px;
+}
 
 .center-text {
   text-align: center;
@@ -108,6 +108,10 @@ footer {
   height: 100px;
 }
 
+.minus-margin {
+  margin-left: -6vw;
+}
+
 .spacing {
   padding-left: 5vw;
   padding-right: 5vw;
@@ -125,6 +129,10 @@ footer {
     left: 0;
     position: absolute;
     width: 46px;
+}
+
+.text-height {
+  font-size: 12px;
 }
 
 ul {
