@@ -98,6 +98,11 @@ footer {
   padding-left: 1vw;
 }
 
+.media-object {
+  width: 75px;
+  height: 100px;
+}
+
 .spacing {
   padding-left: 5vw;
   padding-right: 5vw;
