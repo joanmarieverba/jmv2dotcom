@@ -131,6 +131,11 @@ footer {
     width: 46px;
 }
 
+.square {
+  width: 75px;
+  height: 75px;
+}
+
 .text-height {
   font-size: 12px;
 }
