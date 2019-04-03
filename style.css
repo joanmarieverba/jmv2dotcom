@@ -99,6 +99,15 @@ footer {
   height: 6vh;
 }
 
+hr.vertical-line {
+        width: 50%;
+        margin: auto;
+        margin-top: 50%;
+        margin-bottom: 50%;
+        transform: rotate(90deg);
+        border-color: purple;
+}
+
 .lspace {
   padding-left: 1vw;
 }
@@ -140,19 +149,24 @@ footer {
   font-size: 12px;
 }
 
+timeline {
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Verdana;
+}
+
+timeline:after,
+timeline:before{
+    content:"\00a0\00a0\00a0\00a0\00a0";
+    text-decoration:line-through;
+}
+
 ul {
   list-style-type: none;
 }
 
 
-hr.vertical-line {
-        width: 50%;
-        margin: auto;
-        margin-top: 50%;
-        margin-bottom: 50%;
-        transform: rotate(90deg);
-        border-color: purple;
-}
+
 
 
 .vspacing {
