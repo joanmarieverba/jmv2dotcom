@@ -102,8 +102,8 @@ footer {
 hr.vertical-line {
         width: 50%;
         margin: auto;
-        margin-top: 50%;
-        margin-bottom: 50%;
+        margin-top: 25%;
+        margin-bottom: 50vh;
         transform: rotate(90deg);
         border-color: purple;
 }
