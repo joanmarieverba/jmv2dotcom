@@ -73,6 +73,14 @@ body {
   background-color: azure;
 }
 
+.box-title4 {
+  width: 13vw;
+  margin-top:-19px;
+  margin-left:15px;
+  padding-left: .5vw;
+  background-color: azure;
+}
+
 .btn {
   width: 100px;
   height: 40px;
