@@ -21,6 +21,12 @@ body {
   border:2px solid black;
 }
 
+.box4 {
+  height: 110vh;
+  width:100vw;
+  border:2px solid black;
+}
+
   @media screen and (max-width: 640px) {
     .box {
         border:2px solid azure;
@@ -32,6 +38,10 @@ body {
     .box3 {
         border:2px solid azure;
         margin-top: 290vh;
+    }
+
+    .box4 {
+        border:2px solid azure;
     }
 
     footer {
@@ -175,7 +185,9 @@ ul {
 }
 
 
-
+vbottom {
+  padding-bottom: 5vh;
+}
 
 
 .vspacing {
