@@ -45,9 +45,8 @@ body {
     }
 
     footer {
-      padding-bottom: 28vh;
+      padding-top: 28vh;
       bottom: 0;
-      position: fixed;
     }
     .lspace {
       margin-left: 8vw;
