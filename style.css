@@ -111,6 +111,12 @@ body {
   color:midnightblue;
 }
 
+.extend-content {
+  width: 200%;
+  margin-left: -50%;
+  margin-right: -50%;
+}
+
 footer {
   margin-top: 5vh;
   bottom: 0;
