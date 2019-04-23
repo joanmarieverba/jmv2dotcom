@@ -46,6 +46,7 @@ body {
 
     footer {
       bottom: 0;
+      position: relative;
       margin-top: 28vh;
       padding-top: 28vh;
     }
