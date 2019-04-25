@@ -27,6 +27,12 @@ body {
   border:2px solid black;
 }
 
+.box5 {
+  height: 30vh;
+  width:100vw;
+  border:2px solid black;
+}
+
   @media screen and (max-width: 640px) {
     .box {
         border:2px solid azure;
@@ -41,6 +47,10 @@ body {
     }
 
     .box4 {
+        border:2px solid azure;
+    }
+
+    .box5 {
         border:2px solid azure;
     }
 
