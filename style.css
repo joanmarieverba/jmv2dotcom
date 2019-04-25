@@ -69,6 +69,11 @@ body {
     .nav-title {
       font-size: 14px;
     }
+
+    .no-overlap {
+      margin-top: 160%;
+    }
+
   }
 
 .box-title {
