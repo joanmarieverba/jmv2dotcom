@@ -213,6 +213,10 @@ vbottom {
   padding-bottom: 5vh;
 }
 
+vmbottom {
+  margin-bottom: 3vh;
+}
+
 
 .vspacing {
   font-size: 18px;
