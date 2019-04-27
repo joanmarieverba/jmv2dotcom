@@ -4,14 +4,14 @@ body {
 }
 
 .box {
-  /* height:175vh; */
   height:auto;
   width:100vw;
   border:2px solid black;
 }
 
 .box2 {
-  height:100vh;
+  /* height:100vh; */
+  height: 660px;
   width:100vw;
   border:2px solid black;
 }
