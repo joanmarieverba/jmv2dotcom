@@ -140,6 +140,10 @@
     background-color: #d2691e !important;
 }
 
+.timeline-badge.midnight {
+    background-color: #191970 !important;
+}
+
 .timeline-title {
     margin-top: 0;
     color: inherit;
