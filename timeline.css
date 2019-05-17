@@ -144,6 +144,12 @@
     background-color: #191970 !important;
 }
 
+.timeline-badge.pink {
+    background-color: #FF00FF !important;
+}
+
+
+
 .timeline-title {
     margin-top: 0;
     color: inherit;
