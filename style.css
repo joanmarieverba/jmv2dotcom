@@ -138,6 +138,10 @@ hr.vertical-line {
   padding-right: 5vw;
 }
 
+.spacing-nav {
+  padding-left: 45vw;
+}
+
 .signature {
   font-family: 'Pinyon Script', cursive;
 }
