@@ -139,7 +139,7 @@ hr.vertical-line {
 }
 
 .spacing-nav {
-  padding-left: 45vw;
+  padding-left: 30vw;
 }
 
 .signature {
@@ -196,6 +196,7 @@ timeline:before{
 
 @media screen and (max-width: 640px) {
     .top {
+        font-size: 12px;
         height: 200px;
         padding-bottom: 0;
         padding-left: 1vw;
