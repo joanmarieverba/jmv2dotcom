@@ -197,7 +197,7 @@ timeline:before{
 @media screen and (max-width: 640px) {
     .top {
         font-size: 12px;
-        height: 200px;
+        height: 100px;
         padding-bottom: 0;
         padding-left: 1vw;
     }
