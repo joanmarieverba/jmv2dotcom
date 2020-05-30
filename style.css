@@ -192,9 +192,14 @@ timeline:before{
     height: 51px;
     padding-bottom: 5vh;
     padding-left: 2vw;
-
 }   
 
+@media screen and (max-width: 640px) {
+    .top {
+        height: 200px;
+        padding-bottom: 0;
+        padding-left: 1vw;
+    }
 
 
 ul {
