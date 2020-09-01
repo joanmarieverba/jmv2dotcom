@@ -121,6 +121,12 @@ hr.vertical-line {
         border-color: purple;
 }
 
+.instructions {
+  color: white;
+  text-align: center;
+  
+}
+
 .lspace {
   padding-left: 1vw;
 }
