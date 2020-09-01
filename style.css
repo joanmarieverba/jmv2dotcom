@@ -80,8 +80,14 @@ body {
 }
 
 .btn {
-  width: 100px;</span>
+  width: 100px;
   height: 40px;
+}
+
+.btn-set {
+    margin-top: 2vh;
+    margin-left: 1vw;
+    width: 5vw;
 }
 
 .center-text {
