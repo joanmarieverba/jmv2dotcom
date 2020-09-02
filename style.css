@@ -136,6 +136,10 @@ hr.vertical-line {
   padding-left: 1vw;
 }
 
+main {
+  font-family: Alegreya;
+}
+
 .media-object {
   width: 75px;
   height: 100px;
