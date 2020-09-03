@@ -132,6 +132,10 @@ hr.vertical-line {
   text-align: center;
 }
 
+.logo {
+  border-radius: 0;
+}
+
 .lspace {
   padding-left: 1vw;
 }
