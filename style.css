@@ -204,6 +204,11 @@ timeline:before{
 /* code \00a0 is nonbreaking space */
 
 
+.title {
+  font-family: Creepster;
+  font-size: 22px;
+}
+
  .top {
     display: inline-block;
     border: 1px solid #000;
@@ -221,6 +226,8 @@ timeline:before{
         padding-bottom: 0;
         padding-left: 1vw;
     }
+
+
 
 
 ul {
