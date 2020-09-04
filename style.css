@@ -80,14 +80,13 @@ body {
 }
 
 .btn {
-  width: 100px;
+  width: 20vw;
   height: 40px;
 }
 
 .btn-set {
     margin-top: 2vh;
     margin-left: 1vw;
-    width: 5vw;
 }
 
 .center-text {
