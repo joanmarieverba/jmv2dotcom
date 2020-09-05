@@ -84,6 +84,13 @@ body {
   height: 40px;
 }
 
+@media screen and (max-width: 1140px) {
+	.btn {
+		font-size: 10px;
+	}
+}
+
+
 .btn-set {
     margin-top: 2vh;
     margin-left: 1vw;
