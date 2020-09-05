@@ -215,7 +215,13 @@ timeline:before{
   font-size: 22px;
 }
 
- .top {
+@media screen and (max-width: 760px) {
+	.title {
+		font-size: 14px;
+	}
+}
+
+.top {
     display: inline-block;
     border: 1px solid #000;
     background-color: skyblue;
@@ -232,7 +238,7 @@ timeline:before{
         padding-bottom: 0;
         padding-left: 1vw;
     }
-
+}
 
 
 
