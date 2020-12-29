@@ -177,6 +177,10 @@ main {
     text-align: center;  
 }
 
+.panel-body {
+  padding: 15px;
+  margin-bottom: 10px;
+}
 
 .spacing {
   padding-left: 5vw;
@@ -204,6 +208,12 @@ main {
 .square {
   width: 75px;
   height: 75px;
+}
+
+.text {
+  font-family: Oswald;
+  font-size: 18px;
+  color: white;
 }
 
 .text-height {
