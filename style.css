@@ -210,6 +210,13 @@ main {
   height: 75px;
 }
 
+
+.square1 {
+  padding-top: 25px;
+  width: 150px;
+  height: 200px;
+}
+
 .text {
   font-family: Oswald;
   font-size: 18px;
