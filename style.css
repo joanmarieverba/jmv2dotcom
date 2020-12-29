@@ -111,6 +111,12 @@ body {
   color:midnightblue;
 }
 
+
+.cover {
+  width: 150px;
+  height: 225px;
+}
+
 .extend-content {
   width: 200%;
   margin-left: -50%;
@@ -159,6 +165,18 @@ main {
 .minus-margin {
   margin-left: -6vw;
 }
+
+
+.panel > .panel-info {
+    background-image: none;
+    background-color: #20315A; 
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    letter-spacing: 1px;
+    text-align: center;  
+}
+
 
 .spacing {
   padding-left: 5vw;
