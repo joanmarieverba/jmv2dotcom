@@ -141,8 +141,9 @@ hr.vertical-line {
 }
 
 .instructions {
-  color: white;
+  color:black;
   text-align: center;
+  margin-top: 10vh;
 }
 
 .logo {
