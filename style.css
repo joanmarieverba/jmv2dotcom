@@ -97,6 +97,11 @@ body {
     margin-left: 1vw;
 }
 
+.caption {
+  font-size: 18px;
+  padding: 1px;
+}
+
 .center-text {
   text-align: center;
 }
@@ -115,6 +120,16 @@ body {
 .cover {
   width: 150px;
   height: 225px;
+}
+
+.cover1 {
+  width: 22vw;
+  height: 45vh;
+}
+
+.cover2 {
+  width: 22vw;
+  height: 55vh;
 }
 
 .extend-content {
