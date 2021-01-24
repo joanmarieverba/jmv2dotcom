@@ -227,11 +227,15 @@ main {
   height: 150px;
 }
 
-
 .square1 {
   padding-top: 25px;
   width: 150px;
   height: 200px;
+}
+
+.square2 {
+  width: 250px;
+  height: 250px;
 }
 
 .text {
