@@ -125,9 +125,6 @@ img:hover{
   transform: translateX(-115%) translateY(-87%) rotatez(-45deg) scale(1.5);
 }
 
-
-
-
 @media (min-width:450px){
   ul{
     margin: 150px 40px;
