@@ -156,10 +156,26 @@ hr.vertical-line {
         border-color: purple;
 }
 
+.innerbox {
+  margin-left: 5vw;
+}
+
+
+
+
 .instructions {
   color:black;
   text-align: center;
   font-size: 18px;
+}
+
+div.item {
+  vertical-align: top;
+  display: inline-block;
+  text-align: center;
+  width: 13vw;
+  margin-right: 5vw;
+  position: relative;
 }
 
 .logo {
