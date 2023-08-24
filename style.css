@@ -282,6 +282,21 @@ main {
   height: 250px;
 }
 
+@media screen and (max-width: 760px) {
+  .square {
+    padding-left: 30px;
+    width: 8em;
+    height: 8em;
+  }
+
+  .square1 {
+    padding-left: 5px;
+    width: 6em;
+    height: 10em;
+  }
+
+}
+
 .text {
   font-family: Oswald;
   font-size: 18px;
