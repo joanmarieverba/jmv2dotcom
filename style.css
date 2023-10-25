@@ -407,7 +407,6 @@ vmbottom {
    display: block;
 }
 
-
 @media (min-width: 979px) {
   ul.nav li.dropdown:hover > ul.dropdown-menu {
     display: block;
